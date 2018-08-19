@@ -1,0 +1,8 @@
+#include<stdio.h>
+intmain(){
+printf("Este es mi segundo codigo");
+printf("Programar es facil");
+printf("Voy a compartir con mi compañero el codigo");
+printf("Tonantzin Alison Hernández Camacho);
+return 0;
+}
